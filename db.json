@@ -1,6 +1,6 @@
 {
-    "RequiredAppVersion": "0.0.1",
-    "SessionID": "this is a session ID, eventually",
+    "RequiredAppVersion": "v0.0.1",
+    "SessionID": "this is a session ID",
     "FullScreenAsset": "https://aem.alc.ca/FullScreenImageUrl",
     "Messages": [{
             "Type": "Mode",
@@ -17,8 +17,8 @@
             "MsgType": "Player",
             "Value": {
                 "MsgId": "MAINT_MODE_MSG112",
-                "Start": "32345534535345769",
-                "End": "32345534535345769"
+                "Start": "54ess6544gffd",
+                "End": "ygygtdddrrddr55555"
             }
         }
     ]
